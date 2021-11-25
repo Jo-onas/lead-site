@@ -1,4 +1,4 @@
-   
+    const sliders = document.querySelector('[data-id="sliders"]')
 
     let mySlidersValue = 0
     let idSlide = 0
